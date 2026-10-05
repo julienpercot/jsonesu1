@@ -1,0 +1,55 @@
+[
+	{
+		"ID": 1,
+		"name": "LEAGUE OF LEGENDS",
+		"trigram": "LOL",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos5.png"
+
+	},
+	{
+		"ID": 2,
+		"name": "DOTA 2",
+		"trigram": "DOT",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos1.png"
+	},
+	{
+		"ID":3,
+		"name": "COUNTER STRIKE",
+		"trigram": "CS",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos3.png"
+
+	},
+	{
+		"ID": 4,
+		"name": "VALORANT",
+		"trigram": "VAL",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos2.png"
+
+	},
+	{
+		"ID": 5,
+		"name": "FORTNITE",
+		"trigram": "FNT",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos15.png"
+
+	},
+	{
+		"ID": 6,
+		"name": "APEX LEGENDS",
+		"trigram": "APX",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos17.png"
+	},
+	{
+		"ID": 7,
+		"name": "OVERWATCH",
+		"trigram": "OW",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos13.png"
+
+	},	{
+		"ID": 8,
+		"name": "ROCKET LEAGUE",
+		"trigram": "RL",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos4.png"
+
+	}
+]
